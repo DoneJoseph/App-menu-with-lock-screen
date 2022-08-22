@@ -4,6 +4,9 @@
 # Perview
 https://app-menu-with-lock-screen.vercel.app/
 
+# Download
+https://www.mediafire.com/file/v4sa9b5jrfwu2tf/app-menu-with-lock-screen.zip/file
+
 ## Connect with me  
 <div align="center">
 <a href="https://dev.to/kunjappan__007" target="_blank">
